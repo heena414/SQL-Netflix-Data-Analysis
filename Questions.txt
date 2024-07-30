@@ -1,0 +1,40 @@
+QUESTIONS:
+
+1. Total Count/ Entries in data 
+2. No of Movies and Tv shows
+3. Proportion of movies vs tv shows
+4. Average Duration of Movie (in min)
+5. Distribution of Ratings
+6. Top 10 Genre
+7. Year wise release count
+8. Top 10 Year having max release count
+9. Country wise content count
+10. Top countries having max release count
+11. Popularity of Different Genres in various countries
+12. Top 10 countries with most popular genre
+13. Seasonal pattern in content release
+14. Max release year
+15. Min release year
+16. Year when content added to Netflix 
+17. Trends in length of content over time
+18. Average duration number of movies and seasons for Tv shows
+19. Total number of unique cast members
+20. Total Number of Shows/Movies per Cast Member
+21. Top 10 most frequent Cast Members
+22. Total Number of shows
+23. Average cast size per show
+24. Cast Member Participation Rate
+25. Distribution of Cast Members by show type
+26. Cast Members by Country of Show
+27. Count of Cast Members appearing in multiple genres
+28. Top 5 cast members by release year
+29. Most Popular Director - Cast pairs
+30. Top 5 most popular Director - Cast pairs
+31. Number of Unique Shows/Movies per cast Member
+32. Cast Member apperaing in both movies and tv shows
+33. Top 5 shows with the most Cast Members
+34. Cast Diversity Index (Unique Cast Members per show)
+35. Cast Members with most recent release
+36. Cast Members with the most diverse roles
+37. Distribution of Content Release by year for top 10 cast members
+38. Average Duration of Movies/TV Shows per cast member

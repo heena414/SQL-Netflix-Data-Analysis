@@ -1,0 +1,73 @@
+PROJECT OVERVIEW
+
+
+
+About Netflix
+
+Netflix is one of the world's leading streaming entertainment services with over 200 million paid memberships in more than 190 countries. It offers a vast library of TV series, documentaries, and feature films across a wide variety of genres and languages. Netflix allows members to watch as much as they want, anytime, anywhere, on any internet-connected screen.
+
+Project Overview:
+
+The primary objective of this SQL project is to analyse the Netflix dataset to derive insights and trends related to the content available on Netflix. This involves performing data cleaning, data analysis. Data cleaning and Analysis is done with SQL Server.
+The information is made up of stuff that Netflix added between 2008 and 2021. The content ranges from 1925 to 2021, with 1925 being the oldest.
+
+
+About Dataset
+
+Data Consists: 12 Columns and 8807 rows
+
+Below is a detailed description of each column of dataset:
+
+- show_id: A unique identifier for each hsow (both movies and tv shows)
+- type: It indicates whether the entry is a movie or a tv show
+- title: The title of the movie or tv show
+- director: The director(s) of the movie or TV show
+- cast: The main cast of the movie or TV show
+- country: The primary country where the movie or TV show was produced
+- date_added: The date when the movie or TV show was added to Netflix
+- release_year: The year when the movie or TV show was originally released
+- rating: The audience rating of the movie or TV show (e.g., PG-13, TV-MA)
+- duration: The duration of the movie in minutes or the number of seasons for TV shows.
+- listed_in: The genres or categories that the movie or TV show belongs to
+- description: A brief description of the movie or TV show
+
+
+
+STEPS FOR Data Cleaning
+
+1. Check & Remove the duplicates
+2. Handle NULL values  Add data, Delete useless rows
+3. Drop unneeded columns
+4. Standardize the data format
+
+
+
+How Others Can Use This Analysis
+
+1. Content Strategy:
+   - Content Producers: Can understand what types of content are most popular on Netflix, which can inform future production decisions.
+   - Netflix Executives: Can use the analysis to decide on content acquisition and production strategies based on trends and audience preferences.
+
+2. Marketing:
+   - Marketers: Can tailor marketing campaigns based on the popularity of genres, content ratings, and regional preferences.
+   - Advertisers: Can use audience insights to target specific demographics more effectively.
+
+3. Academic Research:
+   - Researchers: Can use the dataset to study trends in digital streaming content, media consumption patterns, and the impact of global streaming services.
+
+4. Data Science and Analytics:
+   - Data Analysts: Can use the dataset to practice and showcase skills in data cleaning, analysis, and visualization.
+   - Machine Learning Engineers: Can build models to predict the success of new content based on historical data.
+
+5. Public Interest:
+   - Consumers: Can gain insights into the diversity and breadth of content available on Netflix.
+   - Media and Journalists: Can use the analysis to write articles and reports on the state of digital streaming.
+
+
+
+Conclusion
+
+In conclusion, this analysis of Netflix's content library reveals significant insights into the distribution, popularity, and trends of movies and TV shows across various genres and regions. By understanding the types of content that resonate most with audiences, stakeholders can make informed decisions about content creation, acquisition, and marketing strategies. The analysis also highlights seasonal patterns in content release and the evolving preferences over time. This comprehensive understanding can drive data-driven decisions, ultimately enhancing user experience and optimizing content offerings to meet the diverse demands of Netflix's global audience.
+
+
+
